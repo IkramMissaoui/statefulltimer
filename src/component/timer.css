@@ -1,0 +1,91 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+  }
+  .gosdiv{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 363px;
+    height: 640px;
+  }
+  .divT{
+    width:305px;
+    height: 592px;
+    border: 2px solid black;
+    border-radius: 30px; 
+    margin-top: 10px
+  }
+  .div2{
+    width: 269px;
+    height: 506px;
+    margin: 40px 15px;
+    border: 2px solid black;
+    position: relative;
+  }
+  .lesdiv{
+    width:231px;
+    height: 69px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  .div2-1{
+    display: flex;
+    justify-content: space-between;
+    width: 211px;
+    height: 100px;
+    margin-top: 65px;
+    margin-left: 20px;
+    font-size: 15px;
+  }
+  #div21{
+    margin: 0 10px
+  }
+  .span1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    font-weight: 100;
+    color: rgb(156, 156, 156);   
+  }
+  .span2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    font-weight: 100;
+    color: rgb(156, 156, 156);
+  }
+  .span3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    font-weight: 100;
+    color: rgb(156, 156, 156);
+  }
+  
+  .lesbtn{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .btn1{
+    padding: 5px 35px;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+  .btn2{
+    padding: 5px 30px;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-right: -40px;
+    margin-left: 20px;
+  }
+  .ss{
+    font-size: 60px;
+    margin-left: 30px;
+  }
+  
